@@ -14,7 +14,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 //import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class SeleniumTest {
-	
+	/*
 	private WebDriver driver;
 	
 	@Test
@@ -57,6 +57,8 @@ public class SeleniumTest {
 		}
 	
 	}
+	
+	*/
 
 }
 
