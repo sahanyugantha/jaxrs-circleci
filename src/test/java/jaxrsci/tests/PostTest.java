@@ -12,7 +12,7 @@ public class PostTest {
 	public void numOfPosts() {
 		PostDao postDao = new PostDao();
 		
-		int expected = 2;
+		int expected = 3;
 		int actual = postDao.fakeDbList().size();
 		
 		assertEquals(expected, actual);
